@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Faiz Zainuri!
+# 👋 Heyyo, I'm Faiz Zainuri!
 
 I'm a passionate developer from Yogyakarta, Indonesia 🇮🇩, with a keen interest in building web applications that solve real-world problems.
 
