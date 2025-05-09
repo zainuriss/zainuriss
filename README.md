@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Faiz Zainuri!
 
-<!--
-**zainuriss/zainuriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from Yogyakarta, Indonesia 🇮🇩, with a keen interest in building web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the projects I've worked on:
+
+- [**wanaHotel**](https://github.com/zainuriss/wanaHotel): A hotel management application built with PHP.
+- [**kasirQuw**](https://github.com/zainuriss/kasirQuw): A point-of-sale system developed using Laravel and Blade.
+- [**FinCorner-UKK**](https://github.com/zainuriss/FinCorner-UKK): A project utilizing Blade templates, possibly related to a final assignment.
+- [**portfolio**](https://github.com/zainuriss/portfolio): My personal portfolio website built with TypeScript.
+
+## 🛠️ Skills
+
+- **Languages**: PHP, JavaScript, TypeScript
+- **Frameworks**: Laravel, Blade
+- **Tools**: Git, GitHub
+
+## 📫 Let's Connect
+
+- 🌐 [Instagram](https://instagram.com/zainuriss_)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+Feel free to check out my repositories and connect with me!
