@@ -20,6 +20,6 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect
 
 - 🌐 [Instagram](https://instagram.com/zainuriss_)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [zzainuri.me@gmail.com](mailto:zzainuri.me@gmail.com)
 
 Feel free to check out my repositories and connect with me!
